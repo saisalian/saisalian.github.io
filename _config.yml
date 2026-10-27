@@ -1,10 +1,13 @@
 # Site settings - edit the lines below, then commit.
 title: Sai Salian
 author: Sai Salian
-description: Notes on Microsoft security, risk and governance.
+description: Practical notes on Microsoft security, risk and AI governance.
+url: "https://saisalian.github.io"
+lang: en-IE
 
-# Uncomment and add your GitHub username to show a link in the footer:
-# github_username: YOUR-USERNAME
+# Links shown in the footer. Leave a line commented out to hide it.
+github_username: saisalian
+# linkedin_username: your-linkedin-handle
 
 theme: minima
 
@@ -16,6 +19,15 @@ plugins:
 header_pages:
   - about.md
 
-# Only publish what's in _posts. Never commit drafts to this public repo.
+# Show the first paragraph of each post on the home page
+show_excerpts: true
+
+minima:
+  date_format: "%-d %B %Y"
+
+# Clean post URLs, e.g. /2026/from-msp-to-in-house/
+permalink: /:year/:title/
+
+# Never commit drafts to this public repo. Only finished, checked posts go in _posts.
 exclude:
   - README.md
