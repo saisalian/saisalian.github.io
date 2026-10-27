@@ -1,0 +1,21 @@
+# Site settings - edit the lines below, then commit.
+title: Sai Salian
+author: Sai Salian
+description: Notes on Microsoft security, risk and governance.
+
+# Uncomment and add your GitHub username to show a link in the footer:
+# github_username: YOUR-USERNAME
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Pages shown in the top menu
+header_pages:
+  - about.md
+
+# Only publish what's in _posts. Never commit drafts to this public repo.
+exclude:
+  - README.md
