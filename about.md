@@ -12,7 +12,7 @@ I'm a hands-on security engineer: identity and access, endpoint protection, dete
 
 ## Background
 
-Before my current role I worked at a managed service provider, looking after security for more than 20 Microsoft 365 tenants at once. That taught me to spot patterns quickly, to standardise what can be standardised, and to explain risk to people who don't live in security tooling.
+Before my current role I worked at a managed service provider, looking after security for more than 70 Microsoft 365 tenants at once. That taught me to spot patterns quickly, to standardise what can be standardised, and to explain risk to people who don't live in security tooling.
 
 - **MSc in Cybersecurity**, National College of Ireland
 - **BEng in Electronics Engineering**, University of Mumbai
